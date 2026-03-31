@@ -194,7 +194,7 @@ student\_polling\_system/
 
 
 
-MCA Project — Don't University
+MCA Project — ADBU University
 
 
 
